@@ -1,4 +1,4 @@
-\newcommand\titleLineOne{Why is there no garlic butter in the fridge}
+\newcommand\titleLineOne{A fast and simple user interface for visual programming}
 \newcommand\titleLineTwo{(I don't want to walk to the shops)}
 \newcommand\thesisAuthor{Egin Murpy}
 \newcommand\supervisor{Dr. Matt Smith}
